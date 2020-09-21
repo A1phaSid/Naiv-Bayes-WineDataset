@@ -1,2 +1,2 @@
 # Naiv-Bayes-WineDataset
-Wine Dataset using GaussianNB
+Wine Dataset using GaussianNB()
